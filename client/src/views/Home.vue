@@ -45,7 +45,7 @@
 </template>
 
 <script>
-const API_URL = 'http://localhost:1234/messages';
+const API_URL = 'https://calvin-hobbes-message-board.herokuapp.com/messages';
 
 export default {
   name: 'home',
